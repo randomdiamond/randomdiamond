@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @randomdiamond
-- 👀 I’m interested Web-developement
+- 👀 I’m interested in Web-developement
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
